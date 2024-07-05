@@ -1,0 +1,3 @@
+# Replace with your own OpenAI API Key https://platform.openai.com/account/api-keys
+# and rename this file to constants.py.
+APIKEY = "sk-proj-AE9Ev3PGdR0yoKAbegWDT3BlbkFJDglR8m8VKXHQxWXvGl2a"
